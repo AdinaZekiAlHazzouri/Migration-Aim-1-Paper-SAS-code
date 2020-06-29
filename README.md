@@ -1,4 +1,7 @@
-# Migration-Aim-1-Paper-SAS-code
+# Migration Aim 1 Paper SAS Code
+The SAS files in this repository are the analysis and code for **Quantifying life course drivers of international migration: A cross-national analysis of Mexico and the US**. 
+
+We merged harmonized data on subjects aged 50+ from two nationally representative datasets in the US and Mexico – the US based Health and Retirement Study (HRS) and the Mexican Health and Aging Study (MHAS). Specific datasets for each SAS file are specified below.
 
 ## 1-Create Harmonized Dataset_MHAS.sas 
 
